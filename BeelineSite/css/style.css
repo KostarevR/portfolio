@@ -1,0 +1,394 @@
+a {
+    text-decoration: none;
+}
+
+.navbar-brand-img {
+    width: 30px;
+}
+
+
+.card-main {
+    display: flex;
+    position: relative;
+}
+
+.title-head {
+    /* width: 70%; */
+    display: inline-block;
+    padding-top: 10px;
+    position: absolute;
+    top: 100px;
+
+}
+
+.title-head-Up {
+    /* width: 70%; */
+    display: inline-block;
+    padding-top: 10px;
+    position: absolute;
+    top: 50px;
+    padding-left: 15px;
+
+}
+
+.card-body {
+    padding: 0;
+}
+
+
+.card {
+    /* padding: 10px; */
+    width: 24rem;
+    text-align: left;
+    margin: 0 auto;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+/* .card-img {
+    width: 50%;
+} */
+
+.card-img-top {
+    width: 100%;
+    height: 100%;
+    padding-left: 100px;
+    object-fit: contain;
+}
+
+.title-head>p {
+    /* margin-top: 70px; */
+    text-align: left;
+    padding-left: 15px;
+}
+
+.card-title {
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 100%;
+    background-color: rgb(246, 246, 246);
+    margin: 0;
+
+}
+
+.cost {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.card-main {
+    background-color: rgb(246, 246, 246);
+    margin-bottom: 30px;
+}
+
+.title-head-Up {
+    padding-left: 20px;
+
+}
+
+.card-details {
+    position: relative;
+    padding-bottom: 35px;
+    margin-bottom: 30px;
+    padding-right: 15px;
+    margin-left: 10px;
+}
+
+.card-details-sim {
+    position: absolute;
+    top: 0;
+    left: 10px;
+
+    padding: 5px 10px 5px 30px;
+    background-image: url('../img/sim-included.svg');
+    background-repeat: no-repeat;
+    background-position: left center;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-position-x: 10px;
+}
+
+.card-details-messenge {
+    position: absolute;
+    top: 0px;
+    left: 145px;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 6px;
+    /* padding: 15px;
+    background-image: url('../img/messengers-1.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid black;
+    border-radius: px;
+    background-position-x: 0px; */
+}
+
+.card-details-social {
+    position: absolute;
+    top: 0;
+    left: 190px;
+    padding: 5px 10px 5px 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+
+.social-img {
+    padding-left: 10px;
+    padding-right: 0px;
+    position: absolute;
+    left: -5px;
+}
+
+.card-details-messenge-like {
+    position: absolute;
+    top: 0px;
+    left: 190px;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+
+.bazy {
+    padding-bottom: 20px;
+}
+
+.card-details-music {
+    position: absolute;
+    top: 0px;
+    left: 235px;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+
+.card-details-social-2 {
+    position: absolute;
+    top: 45px;
+    left: 10px;
+    padding: 5px 10px 5px 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.card-super-b-p {
+    padding-left: 10px;
+    padding-right: 5px;
+    margin-bottom: 28px;
+    margin-left: 10px;
+    padding-top: 50px;
+}
+
+.card-super {
+    padding-left: 10px;
+    padding-right: 5px;
+
+    margin-left: 10px;
+    padding-top: 40px;
+}
+
+.up-text-title {
+    display: inline-block;
+    font-size: 15px;
+    color:  rgb(141, 141, 141);
+}
+
+.up-int-title {
+
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.fttb-tve-img {
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 20px;
+    width: 100%;
+}
+
+.fttb-tve-text {
+    padding-right: 40px;
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+
+.fttb-price {
+
+}
+
+.btn-fttb {
+    border-color: black;
+    color: black;
+    background-color: transparent;
+}
+
+.btn-card {
+    border-color: transparent;
+    color: black;
+    background-color: yellow;
+}
+
+.btn-nav-item {
+    border-color: black;
+    color: black;
+    background-color: transparent;
+
+}
+
+.btn-nav-item:hover {
+    border-color: gray;
+    color: white;
+    background-color: black;
+}
+
+.btn-nav-item:active {
+    border-color: gray;
+    color: white;
+    background-color: black;
+}
+
+.nav-pills .nav-link.active {
+    background-color: black;
+}
+
+.nav-pills .nav-link:hover {
+    background-color: rgb(228, 228, 228);
+    color: black;
+}
+
+.btn:hover {
+    color: black;
+    border-color: transparent;
+    background-color: rgb(255, 238, 0);
+}
+
+.form-text-border {
+    background-color: #ebf0ff;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.form-collb {
+    border-radius: 15px;
+    border: 1px solid #d9d9d9;
+    margin-bottom: 50px;
+}
+
+
+
+.accord-marker {
+    list-style-type: none;
+}
+
+
+
+/* .accord-marker::before {
+    content: "";
+} */
+
+@media (max-width: 1200px) {
+.card {
+    width: 22rem;
+}
+}
+
+@media (max-width: 1100px) {
+    .card {
+        width: 21rem;
+    }
+    }
+
+
+.btn-banner {
+    border-radius: 10px;
+    border: 1px solid gray;
+    background-color: #fff;
+    color: #000;
+    padding: 10px 15px;
+
+}
+
+.banner-top-text__title {
+    margin-bottom: 70px;
+}
+
+.banner-top-text__text {
+    margin-bottom: 50px;
+}
+
+.banner-top {
+    display: flex;
+    /* flex-wrap: wrap; */
+    padding: 90px 15px 0px;
+    background-color: rgb(255, 217, 0);
+}
+
+@media (max-width: 575.98px) { 
+    .banner-top {
+        flex-wrap: wrap;
+    }
+    .banner-top-text {
+        margin-bottom: 20px;
+    }
+    .banner-top {
+        justify-content: center;
+
+    }
+ }
+
+.img-form-qr {
+    margin-left: 40px;
+}
+
+@media (max-width: 575.98px) { 
+    .img-form-qr {
+        display: none;
+    }
+    .form-text-border {
+        margin-top: 20px;
+    }
+ }
+
+
+/* .nav-home {
+    padding-bottom: 70px;
+} */
+
+.cost-title {
+    display: inline-block;
+}
+
+.chek-rate {
+    position: absolute;
+    top: 57px;
+    right: 0;
+    position: fixed;
+    z-index: 2000;
+    width: 300px;
+    height: 400px;
+    background-color: #fff;
+    border: 1px solid #000;
+
+}
+
+.hide {
+    display: none;
+    
+}
+
+/* .callback-form {
+    display: flex;
+    justify-content: center;
+} */
+
+/* @media (max-width: 575.98px) { 
+    .callback-form-tex {
+        width: 100%;
+    }
+ } */
