@@ -61,14 +61,14 @@ h1 {
 }
 
 .up-head__tel {
-    background-image: url('img/eva_phone-outline.svg');
+    background-image: url('../img/eva_phone-outline.svg');
     background-repeat: no-repeat;
     padding-left: 25px;
     background-position: left center;
 }
 
 .up-head-icon__text {
-    background-image: url('img/ic_sharp-log-in.svg');
+    background-image: url('../img/ic_sharp-log-in.svg');
     background-repeat: no-repeat;
     padding-left: 25px;
     background-position: left center;
@@ -107,7 +107,7 @@ h1 {
     margin: 0 auto;
     padding-top: 160px;
     background-image: url('');
-    background-image: url('/img/Rectangle3.png');
+    background-image: url('../img/Rectangle3.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -219,7 +219,7 @@ h1 {
 
     min-width: 400px;
     width: 100%;
-    background-image: url('img/Rectangle\ 8.png');
+    background-image: url('../img/Rectangle8.png');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -275,7 +275,7 @@ h1 {
 .old-collect-img {
     min-width: 880px;
     width: 100%;
-    background-image: url('img/Rectangle\ 9.png');
+    background-image: url('../img/Rectangle9.png');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -456,7 +456,7 @@ h1 {
 
 .footer {
 
-    background-image: url('img/Rectangle\ 15.png');
+    background-image: url('../img/Rectangle15.png');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
